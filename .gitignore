@@ -203,3 +203,9 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,node,react
+
+#인텔리제이 로컬 설정 파일
+.fleet
+.idea/*
+!.idea/jetLinters
+.idea/jsLinters/*

@@ -25,7 +25,7 @@ html, body, #root, button, .css-qcqlck-MuiDataGrid-root {
   height: 100%;
   background-color: #0a080836;
   z-index: 9999;
-  background-image: url("./images/loading.gif");
+  background-image: url("images/loading.gif");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;

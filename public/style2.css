@@ -291,7 +291,7 @@ h2.subtitle {height:40px; line-height:40px; font-size:23px; margin-bottom:15px}
 	background-size: 25px 25px;
 	background-repeat: no-repeat;
 	background-position: center; 
-	background-image:url(./images/refresh.png); text-indent: -99999999999em; }
+	background-image:url(images/refresh.png); text-indent: -99999999999em; }
 .srch_wrap .btn-reset:hover {background-color: #107f93;}
 
 /* Grid-area */
